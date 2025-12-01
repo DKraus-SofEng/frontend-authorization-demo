@@ -1,5 +1,5 @@
-import NavBar from "./NavBar";
 import DuckList from "./DuckList";
+import NavBar from "./NavBar";
 
 function Ducks() {
   return (

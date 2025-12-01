@@ -1,5 +1,5 @@
-import NavBar from "./NavBar";
 import "./styles/MyProfile.css";
+import NavBar from "./NavBar";
 
 function MyProfile({
   userData = { username: "Username here", email: "Email here" },
